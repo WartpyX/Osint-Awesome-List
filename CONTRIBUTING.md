@@ -1,5 +1,3 @@
-**English** | **[العربية (خليجي)](CONTRIBUTING.ar.md)**
-
 # Contributing
 
 Thanks for wanting to contribute! The goal is a **small, high-quality** list, not a big empty one. Fewer tools, each one properly described.
